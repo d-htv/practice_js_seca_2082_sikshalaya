@@ -19,3 +19,4 @@ let divide = (a=1, b=1)=>{
 divide()
 divide(34)
 divide(45,5)
+console.log("changs")
